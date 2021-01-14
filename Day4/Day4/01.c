@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int main_01(void)
 {
 	int age; //변수선언
 	age = 10; //대입연산
@@ -11,7 +11,7 @@ int main(void)
 	int b = 20;
 	int c = 30;
 
-	int a, b, c;
+	//int a, b, c;
 	a = 10;
 	b = 20;
 	c = 30;
